@@ -4,9 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "*"
+django = "==2.0.5"
 ipython = "*"
-flask = "==0.12.1"
 jedi = "==0.17.2"
 
 [dev-packages]
